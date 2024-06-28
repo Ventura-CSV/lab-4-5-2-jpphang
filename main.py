@@ -9,6 +9,9 @@ def main():
     Code Your Program here
     ########################################
     """
+    
+    while total <= 100:
+        ran_num = random randint(1,100)
 
     print(f'The random values are {numbers}')
     print(f'The total is {total}')
