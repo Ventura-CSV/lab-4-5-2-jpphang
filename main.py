@@ -9,7 +9,6 @@ def main():
         numbers.append(ran_num)
         total += ran_num
 
-    # Debugging: Print the results in the exact format expected by the autograder
     print(f'The random values are {numbers}')
     print(f'The total is {total}')
 
