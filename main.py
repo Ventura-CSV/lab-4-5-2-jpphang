@@ -11,7 +11,8 @@ def main():
     """
     
     while total <= 100:
-        ran_num = random randint(1,100)
+        ran_num = random.randint(1,100)
+        numbers append(ran_num)
 
     print(f'The random values are {numbers}')
     print(f'The total is {total}')
