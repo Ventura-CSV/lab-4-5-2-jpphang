@@ -14,6 +14,5 @@ def main():
 
     return numbers, total
 
-
 if __name__ == '__main__':
     main()
