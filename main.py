@@ -5,9 +5,8 @@ def main():
     total = 0
     numbers = []
 
-    
     while total <= 100:
-        ran_num = random.randint(1,100)
+        ran_num = random.randint(1, 100)
         numbers.append(ran_num)
         total += ran_num
 
